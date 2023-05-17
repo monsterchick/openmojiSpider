@@ -3,6 +3,8 @@
 ```
 python main.py # run the program.
 ```
+# Notices:
+* without asynchronous
 
 # Reference:
 1. get directory of desktop
