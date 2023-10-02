@@ -1,7 +1,9 @@
+# About
+This project aims to download image from OpenMoji
 
-# Usage:
+# How to use:
 ```
-python main.py # run the program.
+python main.py
 ```
 # Notices:
 * without asynchronous
